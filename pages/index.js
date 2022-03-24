@@ -14,7 +14,6 @@ export default function Home() {
   useEffect(() => {
     fetchNewsTitles();
   }, []);
-  console.log(titlesData);
   return (
     <div>
       <Head>
