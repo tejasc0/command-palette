@@ -6,14 +6,15 @@ import { useEffect, useState } from 'react';
 export default function Home() {
   const [titlesData, setTitlesData] = useState([]);
   const fetchNewsTitles = () => {
-    axios.get('https://newsapi.org/v2/top-headlines?country=in&apiKey=678e456f4af64fbe9ec0f416417da210')
+    axios.get('https://newsapi.in/newsapi/news.php?key=SFOjv00zgwAIrXPhsx6EvF4gtI2YBN&category=hindi_state')
       .then((res) => {
-        setTitlesData(res.data.articles);
+        setTitlesData(res.data.News);
       })
   }
   useEffect(() => {
     fetchNewsTitles();
   }, []);
+  console.log(titlesData);
   return (
     <div>
       <Head>
