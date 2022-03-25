@@ -6,7 +6,6 @@ const Test = () => {
   const router = useRouter()
   const { country_name } = router.query
   const countriesData = data.countries.filter((item) => item.country.replace(/\s+/g, '-').toLowerCase() === router.query.country_name)
-  console.log(countriesData)
   return (
     <div>
       {countriesData.map((item) => {
