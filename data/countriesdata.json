@@ -145,10 +145,6 @@
       ]
     },
     {
-      "country": "Antarctica",
-      "states": []
-    },
-    {
       "country": "Antigua and Barbuda",
       "states": [
         "Barbuda",
@@ -205,10 +201,6 @@
         "Vayots' Dzor",
         "Yerevan"
       ]
-    },
-    {
-      "country": "Australia",
-      "states": []
     },
     {
       "country": "Austria",
@@ -747,10 +739,6 @@
       ]
     },
     {
-      "country": "Cape Verde",
-      "states": []
-    },
-    {
       "country": "Central African Republic",
       "states": [
         "Bamingui-Bangoran",
@@ -934,10 +922,6 @@
         "Puntarenas",
         "San Jose"
       ]
-    },
-    {
-      "country": "Cote d'Ivoire",
-      "states": []
     },
     {
       "country": "Croatia",
@@ -1326,10 +1310,6 @@
       ]
     },
     {
-      "country": "Georgia",
-      "states": []
-    },
-    {
       "country": "Germany",
       "states": [
         "Baden-Wuerttemberg",
@@ -1573,10 +1553,6 @@
         "Valle",
         "Yoro"
       ]
-    },
-    {
-      "country": "Hong Kong",
-      "states": []
     },
     {
       "country": "Hungary",
@@ -1960,10 +1936,6 @@
         "Rift Valley",
         "Western"
       ]
-    },
-    {
-      "country": "Kiribati",
-      "states": []
     },
     {
       "country": "Korea North",
@@ -2397,14 +2369,6 @@
       ]
     },
     {
-      "country": "Malta",
-      "states": []
-    },
-    {
-      "country": "Marshall Islands",
-      "states": []
-    },
-    {
       "country": "Mauritania",
       "states": [
         "Adrar",
@@ -2475,10 +2439,6 @@
         "Yucatan",
         "Zacatecas"
       ]
-    },
-    {
-      "country": "Micronesia",
-      "states": []
     },
     {
       "country": "Moldova",
@@ -2594,10 +2554,6 @@
       ]
     },
     {
-      "country": "Monaco",
-      "states": []
-    },
-    {
       "country": "Mozambique",
       "states": [
         "Cabo Delgado",
@@ -2630,10 +2586,6 @@
         "Oshikoto",
         "Otjozondjupa"
       ]
-    },
-    {
-      "country": "Nauru",
-      "states": []
     },
     {
       "country": "Nepal",
@@ -3245,10 +3197,6 @@
       ]
     },
     {
-      "country": "Sao Tome",
-      "states": []
-    },
-    {
       "country": "Saudi Arabia",
       "states": [
         "Al Bahah",
@@ -3318,14 +3266,6 @@
         "Saint Louis",
         "Takamaka"
       ]
-    },
-    {
-      "country": "Sierra Leone",
-      "states": []
-    },
-    {
-      "country": "Singapore",
-      "states": []
     },
     {
       "country": "Slovakia",
@@ -3789,10 +3729,6 @@
       ]
     },
     {
-      "country": "Tajikistan",
-      "states": []
-    },
-    {
       "country": "Tanzania",
       "states": [
         "Arusha",
@@ -3913,10 +3849,6 @@
         "Centrale",
         "Maritime"
       ]
-    },
-    {
-      "country": "Tonga",
-      "states": []
     },
     {
       "country": "Trinidad and Tobago",
@@ -4167,10 +4099,6 @@
         "Ra's al Khaymah",
         "Umm al Qaywayn"
       ]
-    },
-    {
-      "country": "United Kingdom",
-      "states": []
     },
     {
       "country": "United States",
